@@ -7,7 +7,7 @@ import pillow_heif
 pillow_heif.register_heif_opener()
 
 st.markdown(
-    "<h1 style='text-align: center;'>Image Type Converter</h1>",
+    "<h1 style='text-align: center;'>Image Extension Converter</h1>",
     unsafe_allow_html=True
 )
 
